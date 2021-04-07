@@ -4,7 +4,7 @@
 
 **Today's Progress**: Committing to the #100DaysOfCode challenge. SO EXCITED!!
 
-**Thoughts**: This is what I need to add structure to my journey, starting this bootcamp with 0 experience has been a really hard but exciting challenege. 100 Days of coding will keep my mind busy and add structure to life post school!
+**Thoughts**: This is what I need to add structure to my journey, starting this bootcamp with 0 experience has been a really hard but exciting challenge. 100 Days of coding will keep my mind busy and add structure to life post school!
 
 **Link(s) to work**:
 
