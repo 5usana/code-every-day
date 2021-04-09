@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 6, 2021
+### Day 0/1: April 6, 2021
 
 **Today's Progress**: Committing to the #100DaysOfCode challenge. SO EXCITED!!
 
@@ -11,7 +11,7 @@
 1. [Stay tuned for regular updates!](https://twitter.com/Susana_debugs)
 2. [Best-Selling Books (SQL for Beginners #5)](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b)
 
-### Day 1: April 7, 2021
+### Day 2: April 7, 2021
 
 **Today's Progress**: I've been slowwwwly learning python today. Started this morning with a morning exercise I coudln't complete, but i look forward to returning to it and figuring it out!
 
@@ -24,14 +24,16 @@
 
 -->
 
-<!-- ### Day 1: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 3: April 8, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Python is kicking my ass but I made a little progress in class today. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts** Today I made attempts to contribute on open source repos and i'd like to document a fail. My checks were not succesful and my merge was blocked. I spent a couple hours going over articles and material to ensure I could succesfully contribute, made requests but was unsucessful today. I'd like to remember that although some days dont bring wins, I still tried and I will continue to.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**
+
+1. [More Twitter updates here!](https://twitter.com/Susana_debugs)
+2. [Failed contribution](https://github.com/layer5io/layer5/pull/1772)
 
 
 ### Day 1: June 27, Monday
