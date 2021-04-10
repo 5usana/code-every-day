@@ -22,8 +22,6 @@
 1. [More Twitter updates here!](https://twitter.com/Susana_debugs)
 2. [Price of Mangoes](https://www.codewars.com/kata/57a77726bb9944d000000b06)
 
-
-
 ### Day 3: April 8, 2021
 
 **Today's Progress**: Python is kicking my ass but I made a little progress in class today. 
@@ -34,4 +32,3 @@
 
 1. [More Twitter updates here!](https://twitter.com/Susana_debugs)
 2. [Failed contribution](https://github.com/layer5io/layer5/pull/1772)
-
