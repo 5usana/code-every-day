@@ -32,3 +32,14 @@
 
 1. [More Twitter updates here!](https://twitter.com/Susana_debugs)
 2. [Failed contribution](https://github.com/layer5io/layer5/pull/1772)
+
+### Day 4: April 10, 2021
+
+**Today's Progress**: Knocked out a few more pull requests for my Hackweek assignment!
+
+**Thoughts** Although some of my pulls do not pass the checks, I a appreciating the exposure. It's nerve racking opening someone elses repo and making changes/contributions, but it's getting slightly less scary. The community has been welcoming so far, it's inspiring. 
+
+**Link(s) to work**
+
+1. [More Twitter updates here!](https://twitter.com/Susana_debugs)
+2. [Pull Requests under Contribution Activity](https://github.com/5usana)
