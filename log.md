@@ -2,7 +2,7 @@
 
 ### Day 5: April 11, 2021
 
-**Today's Progress**: Done with this week's open source contributions
+**Today's Progress**: Done with this week's open source contributions, and a little python refresher.
 
 **Thoughts** I really wanted to contribute something better, but I kept choosing repo's that were more difficult than I had expected. SO today I eventually went with an easy one and watched a Python tutorial since it's been harder to pick up than I expeced. Looking forward to getting back in class tomorrow to code alongside my cohort!
 
