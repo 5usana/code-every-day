@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: April 13, 2021
+
+**Today's Progress**: Django REST Framework
+
+**Thoughts** after all that Django setup, we undid the built in template language and replaced it with Django REST Framework package for JSON API usage. I still struggled with setting up the virtual envirnoment but it I noticed navigating through it a little more easily this time around.
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1382113827718766596?s=20)
+2. [REST Framework](https://www.django-rest-framework.org/)
+
 ### Day 7: April 12, 2021
 
 **Today's Progress**: Django practice!
