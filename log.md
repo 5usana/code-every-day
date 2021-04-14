@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 9: April 14, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates here]()
+2. [CODING]()
 ### Day 8: April 13, 2021
 
 **Today's Progress**: Django REST Framework
