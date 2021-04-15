@@ -3,14 +3,14 @@
 
 ### Day 9: April 14, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Django REST Framework
 
-**Thoughts** 
+**Thoughts** setup went smoother today, I'm picking it up a bit smoother. Noticed that I was leaving out migrations yesterday. Tonight I installed boto3, ready to start AWS tomorrow.
 
 **Link(s) to work**
 
-1. [Twitter updates here]()
-2. [CODING]()
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1382561621822771203?s=20)
+2. [CODING](https://github.com/5usana/code-every-day)
 ### Day 8: April 13, 2021
 
 **Today's Progress**: Django REST Framework
