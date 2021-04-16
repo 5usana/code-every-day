@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: April 15, 2021
 
+**Today's Progress**: Django REST Framework, AWS
+
+**Thoughts** continued Django REST Framework and tested out AWS. setup was bumpy, i'd like to circle back and try again. played around with Storybook to get a feel for it, debating using it for my project 4.
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1382710048615387136?s=20)
+2. [Storybook Tutorial](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
 ### Day 9: April 14, 2021
 
 **Today's Progress**: Django REST Framework
