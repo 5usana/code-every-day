@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: April 16, 2021
+
+**Today's Progress**: Mock interview practice
+
+**Thoughts** it was nerve racking watching a fellow cohortmate be interviewd but it was eye opening. I practiced the interview process myself and going through essential javascript interview questions.
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1384153698440413189?s=20)
+2. [Javascript interview questions](https://www.toptal.com/javascript/interview-questions)
 ### Day 10: April 15, 2021
 
 **Today's Progress**: Django REST Framework, AWS
