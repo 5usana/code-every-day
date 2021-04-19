@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 13: April 18, 2021
+
+**Today's Progress**: Blog React tutorial
+
+**Thoughts** looking for inspiration i started this blog tutorial. It's wild looking back on my first project and going into my 4th project, I have a long way to go but I've picked up on so much. React is making more sense, I can't wait to see what I can do!
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1384153698440413189?s=20)
+2. [Blog app tutorial](https://dev.to/kingdavid/learn-react-hook-by-building-a-simple-blog-app-22i2)
 ### Day 12: April 17, 2021
 
 **Today's Progress**: Storybook for React tutorial
