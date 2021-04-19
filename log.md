@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 12: April 17, 2021
+
+**Today's Progress**: Storybook for React tutorial
+
+**Thoughts** I started a storybook tutorial to get a  feel for it and see if I could incorporate it in with project 4. I spent hours debugging and error with babel-loader only to hit another issue immediately after. Had a quick standup with a couple cohort mates but no solution was found. Going to take another look at it this week or move onto something else.
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1384153698440413189?s=20)
+2. [Storybook for React tutorial](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
 ### Day 11: April 16, 2021
 
 **Today's Progress**: Mock interview practice
 
-**Thoughts** it was nerve racking watching a fellow cohortmate be interviewd but it was eye opening. I practiced the interview process myself and going through essential javascript interview questions.
+**Thoughts** It was nerve racking watching a fellow cohort mate be interviewed but it was eye opening. I practiced the interview process myself and went through essential javascript interview questions.
 
 **Link(s) to work**
 
