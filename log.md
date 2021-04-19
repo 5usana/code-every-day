@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 14: April 19, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates here]()
+2. []()
 ### Day 13: April 18, 2021
 
 **Today's Progress**: Blog React tutorial
