@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 
+### Day 14: April 19, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates here]()
+2. []()
+### Day 13: April 18, 2021
+
+**Today's Progress**: Blog React tutorial
+
+**Thoughts** looking for inspiration i started this blog tutorial. It's wild looking back on my first project and going into my 4th project, I have a long way to go but I've picked up on so much. React is making more sense, I can't wait to see what I can do!
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1384153698440413189?s=20)
+2. [Blog app tutorial](https://dev.to/kingdavid/learn-react-hook-by-building-a-simple-blog-app-22i2)
+### Day 12: April 17, 2021
+
+**Today's Progress**: Storybook for React tutorial
+
+**Thoughts** I started a storybook tutorial to get a  feel for it and see if I could incorporate it in with project 4. I spent hours debugging and error with babel-loader only to hit another issue immediately after. Had a quick standup with a couple cohort mates but no solution was found. Going to take another look at it this week or move onto something else.
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1384153698440413189?s=20)
+2. [Storybook for React tutorial](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
+### Day 11: April 16, 2021
+
+**Today's Progress**: Mock interview practice
+
+**Thoughts** It was nerve racking watching a fellow cohort mate be interviewed but it was eye opening. I practiced the interview process myself and went through essential javascript interview questions.
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1384153698440413189?s=20)
+2. [Javascript interview questions](https://www.toptal.com/javascript/interview-questions)
 ### Day 10: April 15, 2021
 
 **Today's Progress**: Django REST Framework, AWS
