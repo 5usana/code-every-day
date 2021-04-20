@@ -2,14 +2,16 @@
 
 ### Day 14: April 19, 2021
 
-**Today's Progress**: 
+**Today's Progress**: React & storybook
 
-**Thoughts** 
+**Thoughts** for project week I'm making a blog with React and attempting to incorporate Storybook but I can't get past a bug. I'm trying one more time tomorrow but i'm afraid with my tight deadline that i'll need to find another new source of technology to tie into my last project with GA.
+I'm already struggling to get the blog going, don't get me wrong i'm proud of how much I've accomplished in the last 11 weeks of this course but there is still so much more practice and studying I need to do. I want to make something i can be really proud of. today i set up my components and my routes! My progress is slow, but this isn't a race. My magic is slowly building.
+
 
 **Link(s) to work**
 
-1. [Twitter updates here]()
-2. []()
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1384366400219672583?s=20)
+2. [React Router](https://git.generalassemb.ly/SEIR-201/react-router)
 ### Day 13: April 18, 2021
 
 **Today's Progress**: Blog React tutorial
