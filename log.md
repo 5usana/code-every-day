@@ -1,16 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 15: April 20, 2021
+
+### Day 16: April 21, 2021
 
 **Today's Progress**: 
 
-**Thoughts** f
-
+**Thoughts** 
 
 **Link(s) to work**
 
 1. [Twitter updates here]()
 2. []()
+### Day 15: April 20, 2021
+
+**Today's Progress**: updated project components & played with storybook
+
+**Thoughts** project week is HARD, the highs and lows can be debilitating at times. it feels like emotional paralysis, and i cant help but feel the rise in panic. So let's focus on the positive. My components are taking shape, i added state to the blog postings to see the title, content and previous postings which i found on a blog tutorial. my project is only the front end, but i want to build a backend as well to actually save the content. im panicking just thinking about it, this all feels so fresh i dont know how to tackle it without help. it's embarassing. oh man, these posts are getting a bit too real!
+i couldn't get past a bug with storybook, but my instructor helped me setup another so i finally played with storybook. the add ons are cool, i saw an extension for figma that looks to make designing easier. looking forward to getting mroe practice with it.
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1384754581393928195?s=20)
+2. [Storybook](https://storybook.js.org/docs/react/get-started/browse-stories)
 ### Day 14: April 19, 2021
 
 **Today's Progress**: React & storybook
