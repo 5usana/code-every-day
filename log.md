@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 16: April 21, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates here]()
+2. []()
 ### Day 15: April 20, 2021
 
 **Today's Progress**: updated project components & played with storybook
