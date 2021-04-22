@@ -3,14 +3,15 @@
 
 ### Day 16: April 21, 2021
 
-**Today's Progress**: 
+**Today's Progress**: added storybook into my project, had to pump the breaks for now. researched/attempted burger menu, might circle back. not a priority & started modify/delete buttons
 
-**Thoughts** 
+**Thoughts** am i over complicating things with storybook? it should be simple. try try and try again, it'll happen.
 
 **Link(s) to work**
 
-1. [Twitter updates here]()
-2. []()
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1385287337718865926?s=20)
+2. [Project 4 SB branch](https://github.com/5usana/wvblog/tree/sb)
+ 
 ### Day 15: April 20, 2021
 
 **Today's Progress**: updated project components & played with storybook
