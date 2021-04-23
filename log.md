@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 17: April 22, 2021
+
+**Today's Progress**: Project 4 -finished modify/delete functionality -signin/sign up components created but no functionality. researched local storage 
+
+**Thoughts**  I have a rough MVP, but my signin & sign up not functioning. I looked into using local storage since I don't have a backend. When will trying something new not be so damn intimidating? I get so nervous and build up unnecessary anxiety. definitely something to work on.
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1385601146719399941?s=20)
+2. [Project 4](https://github.com/5usana/wvblog)
+
 ### Day 16: April 21, 2021
 
 **Today's Progress**: added storybook into my project, had to pump the breaks for now. researched/attempted burger menu, might circle back. not a priority & started modify/delete buttons
@@ -163,7 +174,7 @@ I'm already struggling to get the blog going, don't get me wrong i'm proud of ho
 
 1. [More Twitter updates here!](https://twitter.com/Susana_debugs/status/1379903861964468224?s=20)
 2. [Price of Mangoes](https://www.codewars.com/kata/57a77726bb9944d000000b06)
-### Day 0/1: April 6, 2021
+### Day 1: April 6, 2021
 
 **Today's Progress**: Committing to the #100DaysOfCode challenge. SO EXCITED!!
 
