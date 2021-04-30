@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 18/19: April 23/24, 2021
+
+**Today's Progress**: Project 4 finalized!!
+
+**Thoughts**  Finalized project 4 with styling, attempted building out the backend with  Express but it was never connected. I'll be looking into this and coming back to update my project.
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1386473699159646208?s=20)
+2. [Project 4](https://github.com/5usana/wvblog)
+
 
 ### Day 17: April 22, 2021
 
