@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 20: April 30, 2021
+
+**Today's Progress**: freeCodeCamp brush up, introduction to Webflow
+
+**Thoughts**  Ok monday was the last day of my software engineering bootcamp so I enjoyed a few days with my laptop off to decompress. BACK AT it with #100daysofcode I'm honetly a bit overwlemed and uncertain of where to start. so today I hopped onto freecodecamp for a couple lessons, and checked out webflow to start working on my protfolio. I can't wait to have my first portfolio up and going!! Hoping to have it up within a week.
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1388181806587912195?s=20)
+2. [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push)
+
+
 ### Day 18/19: April 23/24, 2021
 
 **Today's Progress**: Project 4 finalized!!
