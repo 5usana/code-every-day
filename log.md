@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 21: May 1, 2021
+
+**Today's Progress**: freeCodeCamp practice
+
+**Thoughts**  one thing i'd like to acknowledge is that when I first started practicing on freecodecamp is that i almost  always depended on the hint/help section but I noticed I'm using it less and less with each lesson. I'll take that win!
+
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1388181806587912195?s=20)
+2. [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push)
+
+
 ### Day 20: April 30, 2021
 
 **Today's Progress**: freeCodeCamp brush up, introduction to Webflow
