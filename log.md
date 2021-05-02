@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 22: May 2, 2021
+
+**Today's Progress**: 
+
+**Thoughts**  
+
+
+**Link(s) to work**
+
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1388699442522427401?s=20)
+2. [freecodecamp]()
+
 ### Day 21: May 1, 2021
 
 **Today's Progress**: freeCodeCamp practice
