@@ -9,8 +9,8 @@
 
 **Link(s) to work**
 
-1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1388181806587912195?s=20)
-2. [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push)
+1. [Twitter updates here](https://twitter.com/Susana_debugs/status/1388699442522427401?s=20)
+2. [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line)
 
 
 ### Day 20: April 30, 2021
