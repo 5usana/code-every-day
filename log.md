@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 22: May 2, 2021
+### Day 22: May 3, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Outcomes w/GA, Codewars, resume/coverletter brush up, signed up for Hired
 
-**Thoughts**  
+**Thoughts**  finding my footing post GA Bootcamp has been hard. I picked out an easy codewar challenge to attempt today. added a cover letter to my artillery and carved out a schedule for myself. a minimum of 25hrs a week dedicated to coding, applying to jobs, networking and projects. here we go.
 
 **Link(s) to work**
 
-1. [Twitter updates]()
-2. [freecodecamp]()
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1389372202030559233?s=20)
+2. [CodeWars](https://www.codewars.com/kata/56170e844da7c6f647000063/train/javascript)
 
 ### Day 21: May 1, 2021
 
