@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 24: May 5, 2021
+
+**Today's Progress**: 
+
+**Thoughts**  
+
+**Link(s) to work**
+
+1. [Twitter updates]()
+2. [Github portfolio](https://github.com/5usana/portfolio)
+
 ### Day 23: May 4, 2021
 
 **Today's Progress**: started portfolio in react & attended 2 seperate behavioral interview webinars
