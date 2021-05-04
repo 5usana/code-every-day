@@ -2,14 +2,14 @@
 
 ### Day 23: May 4, 2021
 
-**Today's Progress**: 
+**Today's Progress**: started portfolio in react & attended 2 seperate behavioral interview webinars
 
-**Thoughts**  
+**Thoughts**  i'm still playing with webflow to create my portfolio but part of me still wants to at least try building it from scratch so i started a react app. I may go either way, but for now it will keep me busy. This morning I had a behavioral webinar through GA and ended up signing up for a speed networking and interview practice. It was nice, I met some great people, expanded my network and brushed up on my interviewing skills.
 
 **Link(s) to work**
 
-1. [Twitter updates]()
-2. [CodeWars]()
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1389705708183068674?s=20)
+2. [Github portfolio](https://github.com/5usana/portfolio)
 
 ### Day 22: May 3, 2021
 
