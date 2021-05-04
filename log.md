@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 23: May 4, 2021
+
+**Today's Progress**: 
+
+**Thoughts**  
+
+**Link(s) to work**
+
+1. [Twitter updates]()
+2. [CodeWars]()
+
 ### Day 22: May 3, 2021
 
 **Today's Progress**: Outcomes w/GA, Codewars, resume/coverletter brush up, signed up for Hired
