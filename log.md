@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 25: May 6, 2021
+
+**Today's Progress**: 
+
+**Thoughts**  
+
+**Link(s) to work**
+
+1. [Twitter updates]()
+2. [Github portfolio](https://github.com/5usana/portfolio)
+
 ### Day 24: May 5, 2021
 
 **Today's Progress**: portfolio work
