@@ -2,13 +2,13 @@
 
 ### Day 24: May 5, 2021
 
-**Today's Progress**: 
+**Today's Progress**: portfolio work
 
-**Thoughts**  
+**Thoughts**  I made a few updates to my portfolio, added styled components and a navbar. stuck on changing the colors to the social media icons, but i'll figure it out. more work to be done, i'd like to hop bakc on tonight to do more.
 
 **Link(s) to work**
 
-1. [Twitter updates]()
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1389986694632415233?s=20)
 2. [Github portfolio](https://github.com/5usana/portfolio)
 
 ### Day 23: May 4, 2021
