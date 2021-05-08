@@ -1,14 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 25: May 6, 2021
+### Day 26: May 8, 2021
 
-**Today's Progress**: 
+**Today's Progress**:
 
-**Thoughts**  
+**Thoughts** 
 
 **Link(s) to work**
 
 1. [Twitter updates]()
+2. [Github portfolio](https://github.com/5usana/portfolio)
+
+### Day 25: May 7, 2021
+
+**Today's Progress**: worked on my portfolio, but mainly focused on job hunting
+
+**Thoughts**  my portfolio is coming along slow, I need inspiration. after adding the project details i realized the layout is messy, i need the page to scroll down. i'll be looking into that next!
+
+**Link(s) to work**
+
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1391105736936095747?s=20)
 2. [Github portfolio](https://github.com/5usana/portfolio)
 
 ### Day 24: May 5, 2021
