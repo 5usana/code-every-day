@@ -2,13 +2,13 @@
 
 ### Day 26: May 8, 2021
 
-**Today's Progress**:
+**Today's Progress**: portfolio, interview research, & free code camp
 
-**Thoughts** 
+**Thoughts** i spend too much time on the design of my portfolio, which is funny because you couldnt tell by the look of it. chipping away at more freecodecamp. i feel slow but this isnt a race, so let's keep it up!!
 
 **Link(s) to work**
 
-1. [Twitter updates]()
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1391405276423540740?s=20)
 2. [Github portfolio](https://github.com/5usana/portfolio)
 
 ### Day 25: May 7, 2021
