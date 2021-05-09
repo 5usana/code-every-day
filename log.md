@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 28: May 10, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1391405276423540740?s=20)
+2. [Github portfolio](https://github.com/5usana/portfolio) & [FCC] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values)
+
+
 ### Day 27: May 9, 2021
 
 **Today's Progress**: free code camp
