@@ -2,14 +2,14 @@
 
 ### Day 28: May 10, 2021
 
-**Today's Progress**: 
+**Today's Progress**: freeCodeCamp & codewars
 
-**Thoughts** 
+**Thoughts** nervouse that i'm lingering too long on freeCodeCamp but bootcamp went by so quick i feel the need to realy focus on javascript so that i at least have 1 language I am good at. I'd like to play aorund mroe with python, but maybe once I have a better understanding of javascript i'll give it another go.
 
 **Link(s) to work**
 
-1. [Twitter updates](https://twitter.com/Susana_debugs/status/1391405276423540740?s=20)
-2. [Github portfolio](https://github.com/5usana/portfolio) & [FCC] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values)
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1392147520319463431?s=20)
+2. [FCC] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements)
 
 
 ### Day 27: May 9, 2021
