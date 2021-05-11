@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 29: May 11, 2021
+
+**Today's Progress**: freeCodeCamp & codewars
+
+**Thoughts** I appreciate the dedication to using twitter for learning in public and holding myself accountable, but I have to say it's HARD see everyone's tweets because i keep comparing myself to others progress. yes, i am extremely proud and happy for my classmates, I know we are at different parts of our coding journey, but I can't help it. ok, I wont linger on that thought but I wanted to put it out there. I'm getting better each day and that's what matters.
+
+**Link(s) to work**
+
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1392147520319463431?s=20)
+2. [code wars] (https://www.codewars.com/kata/570669d8cb7293a2d1001473/train/javascript)
+
 ### Day 28: May 10, 2021
 
 **Today's Progress**: freeCodeCamp & codewars
