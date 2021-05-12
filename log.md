@@ -2,14 +2,14 @@
 
 ### Day 30: May 12, 2021
 
-**Today's Progress**: 
+**Today's Progress**: portfolio styling
 
-**Thoughts** 
+**Thoughts** I'm spending way too much time on styling, but I really enjoy it. I feel like I should have spent more time on coding today but that's ok. I heard a quote, "do what you love and you'll never work a day in your life". today was so fun it kind of felt like that. 
 
 **Link(s) to work**
 
-1. [Twitter updates]()
-2. [] ()
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1392593226700234756?s=20)
+2. [Github portfolio](https://github.com/5usana/portfolio)
 
 ### Day 29: May 11, 2021
 
