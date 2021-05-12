@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 31: May 13, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates]()
+2. []()
+
 ### Day 30: May 12, 2021
 
 **Today's Progress**: portfolio styling
