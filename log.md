@@ -2,14 +2,14 @@
 
 ### Day 31: May 13, 2021
 
-**Today's Progress**: 
+**Today's Progress**: freecodecamp
 
-**Thoughts** 
+**Thoughts** i've been under the weather today, only managed to apply to a few jobs and knock out a little practice on freecodecamp. next week is hackweek with GA, and my portfolio is due tomorrow! a lot coming up, i need to shake this off!
 
 **Link(s) to work**
 
-1. [Twitter updates]()
-2. []()
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1393084204754169856?s=20)
+2. [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/explore-differences-between-the-var-and-let-keywords)
 
 ### Day 30: May 12, 2021
 
