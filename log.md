@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 32: May 14, 2021
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1393084204754169856?s=20)
+2. [FreeCodeCamp]()
+
+
 ### Day 31: May 13, 2021
 
 **Today's Progress**: freecodecamp
