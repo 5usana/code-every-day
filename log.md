@@ -1,14 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 31: May 14, 2021
+### Day 33: May 15, 2021
 
-**Today's Progress**: portfolio almost done
+**Today's Progress**:
 
-**Thoughts** there are 2 visual tweaks i'd like to make. the project component looks weird in mobile format, and the home page scrolls over the navbar. i beleive I also need to throw in a what i'm currently working on componenet. other than that, it looks pretty decent. it'll be up by monday. it's deployed just needs these last updates.
+**Thoughts** 
 
 **Link(s) to work**
 
-1. [Twitter updates](https://twitter.com/Susana_debugs/status/1393450982399352841?s=20)
+1. [Twitter updates]()
 2. [deployed portfolio](https://susanamartins.herokuapp.com/)
 
 ### Day 32: May 14, 2021
