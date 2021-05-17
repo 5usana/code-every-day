@@ -1,14 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 33: May 15, 2021
+### Day 33&34: May 15 & 16, 2021
 
-**Today's Progress**:
+**Today's Progress**: sites up
 
-**Thoughts** 
+**Thoughts** i still need to fix the mobile style, i cnat get a clear mobile view. tomorrow is hackweek, cant wait for my 3 day sprint!
 
 **Link(s) to work**
 
-1. [Twitter updates]()
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1394182959347818497?s=20)
 2. [deployed portfolio](https://susanamartins.herokuapp.com/)
 
 ### Day 32: May 14, 2021
