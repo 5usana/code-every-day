@@ -2,14 +2,14 @@
 
 ### Day 35: May 17, 2021
 
-**Today's Progress**: 
+**Today's Progress**: HAPPY HACKWEEK!
 
-**Thoughts** 
+**Thoughts** met my team today, we are building a children's trivia game for out 3 day sprint. I found an API for my team that we set up while waiting for out UX Team. the front end skeletal structure was setup today, we should have a wireframe tomorrow to follow. day 1 done! can't wait to see how this project turns out.
 
 **Link(s) to work**
 
 1. [Twitter updates](https://twitter.com/Susana_debugs/status/1394182959347818497?s=20)
-2. [deployed portfolio](https://susanamartins.herokuapp.com/)
+2. [hackweek repository](https://github.com/5usana/education_thunder)
 
 ### Day 33&34: May 15 & 16, 2021
 
