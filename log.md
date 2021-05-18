@@ -9,7 +9,7 @@
 
 **Link(s) to work**
 
-1. [Twitter updates](https://twitter.com/Susana_debugs/status/1394182959347818497?s=20)
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1394458149344583681?s=20)
 2. [hackweek repository](https://github.com/5usana/education_thunder)
 
 ### Day 35: May 17, 2021
