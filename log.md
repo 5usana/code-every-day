@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 37: May 18, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1394845066284339207?s=20)
+2. [hackweek backend repository](https://github.com/Juicy-Teachers/backend)
+
 
 ### Day 36: May 18, 2021
 
