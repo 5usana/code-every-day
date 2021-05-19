@@ -3,14 +3,14 @@
 
 ### Day 36: May 18, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Hackweek- we had to drop our API and create our own data, there wasnt a good api geared towards trivia for ages 5-8. connectedc the front end to the back end today.
 
-**Thoughts**
+**Thoughts** i really enjoy working on a team, i feel very lucky to have a good one!
 
 **Link(s) to work**
 
-1. [Twitter updates](https://twitter.com/Susana_debugs/status/1394458149344583681?s=20)
-2. [hackweek repository](https://github.com/5usana/education_thunder)
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1394845066284339207?s=20)
+2. [hackweek backend repository](https://github.com/Juicy-Teachers/backend)
 
 ### Day 35: May 17, 2021
 
