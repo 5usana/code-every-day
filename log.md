@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 38: May 20, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates]()
+2. []()
+
+
 ### Day 37: May 19, 2021
 
 **Today's Progress**: last day of GA livibl-may2021 HACKATHON
