@@ -1,15 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 37: May 18, 2021
+### Day 37: May 19, 2021
 
-**Today's Progress**: 
+**Today's Progress**: last day of GA livibl-may2021 HACKATHON
 
-**Thoughts** 
+**Thoughts** It was a mad scramble tying up loose ends for our project. everything was deployed early but during the final hour our front end wouldnt deploy, luckly we got it working on time for presentations. I loved the structure of having a team to work with. The exposure to UX designers and data scientist was foriegn, I am beyond grateful for the experience, and would love to do these more often. My team got along so well, we decided we want to get back together next week to pick up where we left off to improve our app. check it out!
 
 **Link(s) to work**
 
-1. [Twitter updates](https://twitter.com/Susana_debugs/status/1394845066284339207?s=20)
-2. [hackweek backend repository](https://github.com/Juicy-Teachers/backend)
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1395593243895603202?s=20)
+2. [hackathon project-Quisbee](https://quisbee.netlify.app/)
+3. [hackweek frontend repository](https://github.com/5usana/education_thunder)
+4. [hackweek backend repository](https://github.com/Juicy-Teachers/backend)
 
 
 ### Day 36: May 18, 2021
