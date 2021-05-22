@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 38: May 20, 2021
+### Day 38: May 21, 2021
 
 **Today's Progress**:
 
-**Thoughts** 
+**Thoughts** 5-20 burnt out from 2nd covid shot, no coding today. fats forward to 5-21.
 
 **Link(s) to work**
 
