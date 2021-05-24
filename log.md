@@ -2,13 +2,13 @@
 
 ### Day 38: May 23, 2021
 
-**Today's Progress**: updted portfolio
+**Today's Progress**: updated portfolio
 
-**Thoughts** 5-20 burnt out from 2nd covid shot, no coding today. fast forward. 5/23 added currently working on to projects with my hackathon projecy Quisbee.
+**Thoughts** 5-20 burnt out from 2nd covid shot, no coding today. fast forward. 5/23 added currently working on to projects with my hackathon projecy Quisbee to my portfolio.
 
 **Link(s) to work**
 
-1. [Twitter updates]()
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1396684026623127553?s=20)
 2. [updated portfolio](susanamartins.herokuapp.com/)
 
 
