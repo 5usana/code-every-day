@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 39: May 24, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1396684026623127553?s=20)
+2. []()
+
 ### Day 38: May 23, 2021
 
 **Today's Progress**: updated portfolio
