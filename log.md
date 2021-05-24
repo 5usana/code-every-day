@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 38: May 21, 2021
+### Day 38: May 23, 2021
 
 **Today's Progress**:
 
