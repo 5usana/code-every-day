@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 41: May 26, 2021
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1397324765652602881?s=20)
+2. [React Native Tutorial](https://www.youtube.com/watch?v=pflXnUNMsNk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=2)
+
 ### Day 40: May 25, 2021
 
 **Today's Progress**: started React Native tutorial
