@@ -2,14 +2,15 @@
 
 ### Day 39: May 24, 2021
 
-**Today's Progress**: 
+**Today's Progress**: applied to jobs & reviewd interview questions for javascript & frontend
 
-**Thoughts** 
+**Thoughts** burnt my fingers and found out typing one handed is hell.
 
 **Link(s) to work**
 
-1. [Twitter updates](https://twitter.com/Susana_debugs/status/1396684026623127553?s=20)
-2. []()
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1397055689973932036?s=20)
+2. [javascript interview questions](https://www.toptal.com/javascript/interview-questions)
+3. [front end interview questions](https://git.generalassemb.ly/SEIR-201/interview-workshop/blob/master/lib/front-end.md)
 
 ### Day 38: May 23, 2021
 
