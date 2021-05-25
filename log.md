@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 40: May 25, 2021
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1397055689973932036?s=20)
+2. []()
+
 ### Day 39: May 24, 2021
 
 **Today's Progress**: applied to jobs & reviewd interview questions for javascript & frontend
