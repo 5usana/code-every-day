@@ -2,16 +2,16 @@
 
 
 
-### Day 41: May 26, 2021
+### Day 41 & 42: May 26 & 27, 2021
 
-**Today's Progress**: 
+**Today's Progress**: React Native tutorial
 
-**Thoughts**
+**Thoughts** I like react native, it reminds me of styled components. debating what I should build with it after this tutorial
 
 **Link(s) to work**
 
-1. [Twitter updates](https://twitter.com/Susana_debugs/status/1397324765652602881?s=20)
-2. [React Native Tutorial](https://www.youtube.com/watch?v=pflXnUNMsNk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=2)
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1398036045690671104?s=20)
+2. [React Native Tutorial](https://www.youtube.com/watch?v=uLHFPt9B2Os&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=9)
 
 ### Day 40: May 25, 2021
 
