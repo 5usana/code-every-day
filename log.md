@@ -2,6 +2,18 @@
 
 
 
+### Day 43: May 28, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1398036045690671104?s=20)
+2. [React Native Tutorial](https://www.youtube.com/watch?v=uLHFPt9B2Os&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=9)
+
+
 ### Day 41 & 42: May 26 & 27, 2021
 
 **Today's Progress**: React Native tutorial
