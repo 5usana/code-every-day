@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 44: May 28, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1398346095676166144?s=20)
+2. []()
 
 ### Day 43: May 28, 2021
 
