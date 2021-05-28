@@ -4,14 +4,14 @@
 
 ### Day 43: May 28, 2021
 
-**Today's Progress**: 
+**Today's Progress**: solved a javascript kata today.
 
-**Thoughts** 
+**Thoughts** i kept passing the tests but when i selected attempt to submit my answer they didnt work, it took several attempts and different approaches but I finally got it. woo! Founders will pitch us an idea for an app and over the next month we'll have 4 sprints. 
 
 **Link(s) to work**
 
-1. [Twitter updates](https://twitter.com/Susana_debugs/status/1398036045690671104?s=20)
-2. [React Native Tutorial](https://www.youtube.com/watch?v=uLHFPt9B2Os&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=9)
+1. [Twitter updates](https://twitter.com/Susana_debugs/status/1398346095676166144?s=20)
+2. [solved kata](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/solutions/javascript)
 
 
 ### Day 41 & 42: May 26 & 27, 2021
