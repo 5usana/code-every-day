@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
 
-### Day 44: May 28, 2021
+### Day 44: May-28 June 1, 2021
 
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts** no computer over memorial day weekend! I helped zak move, and enjoyed family time including meeting my newborn neice Joana for the first time. a little break for my mental health.
 
 **Link(s) to work**
 
-1. [Twitter updates](https://twitter.com/Susana_debugs/status/1398346095676166144?s=20)
+1. []()
 2. []()
 
 ### Day 43: May 28, 2021
