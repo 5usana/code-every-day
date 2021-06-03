@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
 
-### Day 44: June 2, 2021
+###: June 2, 2021
 
-**Today's Progress**: solved a javascript kata today.
+**Today's Progress**: 
 
-**Thoughts** i kept passing the tests but when i selected attempt to submit my answer they didnt work, it took several attempts and different approaches but I finally got it. woo! Founders will pitch us an idea for an app and over the next month we'll have 4 sprints. 
+**Thoughts** travel day! made it to utah to hang out with my family. i thought i'd squeeze in a little time but it didnt work out. tomorrow i have part of the morning carved out to code.
 
 **Link(s) to work**
 
