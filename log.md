@@ -2,14 +2,14 @@
 
 ### Day 44: June 3, 2021
 
-**Today's Progress**:
+**Today's Progress**: freecodecamp- front end development libraries
 
-**Thoughts** 
+**Thoughts** im visiting family for a week, so i'm sticking to smaller projects such as code challenges and freecodecamp. The kids are cute and distracting but I'm happy to knock out a solid hour carving out my skills.
 
 **Link(s) to work**
 
-1. []()
-2. []()
+1. [Twitter](https://twitter.com/Susana_debugs/status/1400519498340257796?s=20)
+2. [FreeCodeCamp- Front end development libraries](https://www.freecodecamp.org/learn/front-end-libraries/react/compose-react-components)
 
 ###: June 2, 2021
 
