@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 44: June 3, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. []()
+2. []()
 
 ###: June 2, 2021
 
