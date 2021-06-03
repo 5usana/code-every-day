@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 45: June 4, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1400519498340257796?s=20)
+2. []()
+
 ### Day 44: June 3, 2021
 
 **Today's Progress**: freecodecamp- front end development libraries
