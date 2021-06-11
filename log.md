@@ -1,11 +1,13 @@
 # 100 Days Of Code - Log
 
 
-### Day 45: June 4, 2021
+### Day --: June 10, 2021
 
-**Today's Progress**: 
+**Today's Progress**:  Women Who Code CONNECT REIMAGINE 2021 Conference
 
-**Thoughts** 
+**Thoughts** Aftr memorial day weekend, I visit family in Utah. I spent time coding the first two days then fully submerged myself in enjoying quality time with my neice and nephews. I haven't been unemployed most of my adult life, so taking a whole week to hang out with family was a luxury I couldn't afford to lose. it was absolutely lovely. I had my first interview which I rocked, hopefully I'll move on to the next phase.
+coming back today i was incredibly inspired by so many badass women speaking at Women Who Code CONNECT REIMAGINE 2021 Conference. I also connected with someone on LinkedIn who reached out to seak advice regarding my bootcamp experience. afterwards i truly felt like i saw a spark in her, i think i helped inspire her to push for it. exciting!!!
+alright, i need to dive back in, i miss creating. coding to come!!
 
 **Link(s) to work**
 
