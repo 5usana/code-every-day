@@ -2,14 +2,16 @@
 
 ### Day 45: June 11, 2021
 
-**Today's Progress**: Women Who Code CONNECT REIMAGINE 2021 Conference +
+**Today's Progress**: Women Who Code CONNECT REIMAGINE 2021 Conference + updated react native tutorial
 
-**Thoughts** 
+**Thoughts** im just so impressed by all the wonderful speakers during this weeks conference. I need to go over all my notes and structure my studying for the next few weeks. I feel as though I have mroe direction moving forward and a lot to work on. my networking is rough, i need to keep it up and stop being so shy!
+i hopped back on my react native tutorial today, it was fun!
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1400519498340257796?s=20)
-2. []()
+1. [Twitter](https://twitter.com/Susana_debugs/status/1403534342781956102?s=20)
+2. [react native](https://www.youtube.com/watch?v=LH_SoXiu_Hk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=11)
+3. [tutorial repository] (https://github.com/5usana/nativetutorial)
 
 ### Day --: June 10, 2021
 
