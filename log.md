@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 46: June 11, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1400519498340257796?s=20)
+2. []()
+
 ### Day 45: June 11, 2021
 
 **Today's Progress**: Women Who Code CONNECT REIMAGINE 2021 Conference + updated react native tutorial
