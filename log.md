@@ -4,11 +4,11 @@
 
 **Today's Progress**: GA June 3 day sprint Hackathon
 
-**Thoughts** 
+**Thoughts** day 2 has been challenging. We've moved on to the frontend and i'm playing with material ui for the first time. I'm excited to experiment more with this, I'd love to incorporate it into some previous projects. My portfolio needs some flare!!
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1404632553701527563?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1404928002564128770?s=20)
 2. [](https://github.com/GA-Hackathon-20210614)
 
 ### Day 46: June 14, 2021
