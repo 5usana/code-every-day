@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 48: June 16, 2021
+
+**Today's Progress**: GA June 3 day sprint Hackathon
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1404928002564128770?s=20)
+2. [](https://github.com/GA-Hackathon-20210614)
+
 ### Day 47: June 15, 2021
 
 **Today's Progress**: GA June 3 day sprint Hackathon
