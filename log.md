@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 46: June 11, 2021
+### Day 46: June 14, 2021
 
-**Today's Progress**: 
+**Today's Progress**: GA June 3 day sprint Hackathon
 
-**Thoughts** 
+**Thoughts** today was mainly planning, it went well. our ux designers have a rough figma started, and the the SEI group planned out out MERN stack. I built an attendance model for the backend, but I'm dtruggling with merging. I'm excited to start the front end tomorrow!!
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1400519498340257796?s=20)
-2. []()
+1. [Twitter](https://twitter.com/Susana_debugs/status/1404632553701527563?s=20)
+2. [](https://github.com/GA-Hackathon-20210614)
 
 ### Day 45: June 11, 2021
 
