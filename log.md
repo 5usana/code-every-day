@@ -4,12 +4,12 @@
 
 **Today's Progress**: GA June 3 day sprint Hackathon
 
-**Thoughts** Day 3! 
+**Thoughts**Day 3 was killer! Half of the team stayed up and saw the sunrise together. I feel honored to have worked with such a dedicated group of individuals. Today I covered more front end css, and familiarized myself more with style. One of my teammates couldnt physically code due to errors with node sass on his computer so we did some pair programming together, it was a wonderful learning experience for me. My skills are still building, and i loved absorbing his knowledge and seeing how he tackled vanilla javascript and translated it into sass.
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1404928002564128770?s=20)
-2. [](https://github.com/GA-Hackathon-20210614)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1405307074603487236?s=20)
+2. [Repository](https://github.com/GA-Hackathon-20210614)
 
 ### Day 47: June 15, 2021
 
