@@ -4,7 +4,7 @@
 
 **Today's Progress**: GA June 3 day sprint Hackathon
 
-**Thoughts** 
+**Thoughts** Day 3! 
 
 **Link(s) to work**
 
