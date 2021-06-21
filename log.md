@@ -1,16 +1,16 @@
 # 100 Days Of Code - Log
 
 
-### Day 49: June 17, 2021
+### Day 49: June 20, 2021
 
-**Today's Progress**: 
+**Today's Progress**: react native
 
-**Thoughts**
+**Thoughts** ive added a addTodo component but the textinput and button aren't appearing, it's driving me insane. theres no error message so i'm going back over every line looking for a typo or whatnot. returning with fresh eyes tomorrow! the heat wave has finally cooled down, it's been rough trying to do anything inside the house. I'll explore this week for a good spot to connect to wifi and code!  as of last week, masks aremainly not required for this vaccinated, i'm excited for businesses to open back up to normal. i think the library would be a great spot to focus and enjoy the perks of AC!
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1405307074603487236?s=20)
-2. []()
+1. [Twitter](https://twitter.com/Susana_debugs/status/1406831428629843968?s=20)
+2. [REACT Native]()
 
 ### Day 48: June 16, 2021
 
