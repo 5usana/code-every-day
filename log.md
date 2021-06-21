@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 50: June 21, 2021
+
+**Today's Progress**: 
+
+**Thoughts**
+**Link(s) to work**
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1406831428629843968?s=20)
+2. []()
 
 ### Day 49: June 20, 2021
 
@@ -10,7 +19,7 @@
 **Link(s) to work**
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1406831428629843968?s=20)
-2. [REACT Native]()
+2. [REACT Native](https://github.com/5usana/nativetutorial)
 
 ### Day 48: June 16, 2021
 
