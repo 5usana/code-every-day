@@ -4,7 +4,8 @@
 
 **Today's Progress**: 
 
-**Thoughts**
+**Thoughts** make it mvp is giving me resources for classes ill be taking to better understand react native! it's for an ongoing cohort i'll jump into while witing for the july cohort to start. i'm excited!!!
+
 **Link(s) to work**
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1406831428629843968?s=20)
