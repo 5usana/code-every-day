@@ -1,15 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 50: June 21, 2021
+### Day 50: June 22, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Udemy's Complete React Native in 2021: Zero to Mastery [with Hooks]
 
-**Thoughts** make it mvp is giving me resources for classes ill be taking to better understand react native! it's for an ongoing cohort i'll jump into while witing for the july cohort to start. i'm excited!!!
+**Thoughts** 6/21 make it mvp is giving me resources for classes ill be taking to better understand react native! it's for an ongoing cohort i'll jump into while waiting for the july cohort to start. i'm excited!!!
+6/22 in this course I have better understood how react Native works and started a time focus app demo. I now understand that RN is a bridge, a message broker that helps communicate between different languages. RN uses Java for android, and Objective C & C++ for ios. I amde it through about 10% of the 18 section course, and look forward to hopping back on tomorrow!
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1406831428629843968?s=20)
-2. []()
+1. [Twitter](https://twitter.com/Susana_debugs/status/1407544197444296710?s=20)
+2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
 
 ### Day 49: June 20, 2021
 
