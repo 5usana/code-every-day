@@ -4,7 +4,8 @@
 
 **Today's Progress**: Udemy's Complete React Native in 2021: Zero to Mastery [with Hooks]
 
-**Thoughts** 
+**Thoughts** today was fun, I'm really enjoying the structure of taking this course. i fixed all the issues i had yesterday, then ran into a few others today but i know i'll figure them out. the course goes quickly, and im trying absorb it well. i'm both excited and nervous for this upcoming sprint with make it mvp, i want to be a helpful teammate and carry my own weight.
+
 **Link(s) to work**
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1407544197444296710?s=20)
