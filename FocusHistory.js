@@ -1,3 +1,5 @@
+// here is a sample of the FocusTime app demo I am building through snack.expo June 24 2021
+
 import React from 'react';
 import { View, StyleSheet, Flatlist, Text, SafeAreaView } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage'
