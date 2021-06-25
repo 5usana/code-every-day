@@ -4,11 +4,11 @@
 
 **Today's Progress**: Udemy's Complete React Native in 2021: Zero to Mastery [with Hooks]
 
-**Thoughts** 
+**Thoughts** finishing up Section 4: Building With React Native: FocusTime App and about to learn how to export it locally. I'm getting an error i've been unable to debug for hours so after researching a tweaking, I took a screen shot and shared it with a few communities. I'm excited to test out advice I get!
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1407544197444296710?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1408292919891484673?s=20)
 2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/
 
 ### Day 51: June 23, 2021
