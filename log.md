@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 53: June 25, 2021
+
+**Today's Progress**: Udemy's Complete React Native in 2021: Zero to Mastery [with Hooks]
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1406831428629843968?s=20)
+2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
+
 ### Day 52: June 24, 2021
 
 **Today's Progress**: Udemy's Complete React Native in 2021: Zero to Mastery [with Hooks]
@@ -9,7 +20,7 @@
 **Link(s) to work**
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1408292919891484673?s=20)
-2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/
+2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
 
 ### Day 51: June 23, 2021
 
