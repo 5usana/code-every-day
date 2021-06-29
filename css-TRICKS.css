@@ -1,0 +1,12 @@
+//some things i want to try in a future project
+
+//adding a mask
+img {
+  mask-image: url(‘mask.png’) linear-gradient(-45deg,
+                        rgba(0,0,0,1) 20%, rgba(0,0,0,0) 50%);
+  mask-image: url(#masking); /*referencing to the element generated and defined in SVG code*/
+} 
+
+// clipping
+clip-path: circle(radius at x, y);
+clip-path: url(#clipping); /*referencing to SVG element*/
