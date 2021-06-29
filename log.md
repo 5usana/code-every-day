@@ -2,14 +2,14 @@
 
 ### Day 54: June 29, 2021
 
-**Today's Progress**: Udemy's Complete React Native in 2021: Zero to Mastery [with Hooks]
+**Today's Progress**: Challenge # 4 MintBean- contact component & CSS on Codecademy
 
-**Thoughts** 
+**Thoughts** i love the information im soaking up on codecademy for CSS, but putting my knowledge to work with MintBeans challenge this week was fun! I'm not done, but putting the pieces together was very rewarding. tomorrow I want to hammer out details and get flex going so that I can set this up for both mobile and desktop design. HOW COOL!!
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1408292919891484673?s=20)
-2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1410016303717384193?s=20)
+2. [Challenge 4 MintBean](https://github.com/5usana/challenge4-mintbean)
 3. 
 
 ### Day 53: June 28, 2021
