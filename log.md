@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 53: June 25, 2021
+### Day 53: June 28, 2021
 
-**Today's Progress**: Udemy's Complete React Native in 2021: Zero to Mastery [with Hooks]
+**Today's Progress**: codecademy learn css course
 
-**Thoughts**
+**Thoughts** i realized i have 1 week left with my codecademy pro free access so i decided to take a css class. i would love to completely redesign my portfolio amonst other projects. some thigns im excited about are attempting are adding a mask or clip path. this is so cool!!!
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1406831428629843968?s=20)
-2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1409734423126306819?s=20)
+2. [learn css](https://www.codecademy.com/courses/learn-css/lessons/css-visual-rules/exercises/important)
 
 ### Day 52: June 24, 2021
 
