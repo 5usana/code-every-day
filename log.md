@@ -3,13 +3,13 @@
 
 ### Day 55: June 30, 2021
 
-**Today's Progress**: Challenge # 
+**Today's Progress**: Challenge # 4 MintBean- contact component & CSS on Codecademy
 
-**Thoughts** 
+**Thoughts** im so glad to be learning vanilla css, it's instantly satisfying watching my changes come to life on screen. my free subscription ends this coming tuesday so im debating if i can afford to continue the membership on my own. we'll see! im stuck on the mintbean chalange but im alspo having fun with this one. im trying to figureout the layout of going form mobile to desktop. the css calss with codecademy is great timing bc im implementing what im learning while i work on my mintbean challenge.
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1410016303717384193?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1410619170807373826?s=20)
 2. [Challenge 4 MintBean](https://github.com/5usana/challenge4-mintbean)
 
 
