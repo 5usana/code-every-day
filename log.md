@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 57: July 2, 2021
+
+**Today's Progress**: Challenge # 4 MintBean- contact component & CSS on Codecademy
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1410619170807373826?s=20)
+2. [Challenge 4 MintBean](https://github.com/5usana/challenge4-mintbean)
+3. [DEPLOYED Challenge 4 MintBean](https://challenge4.surge.sh/)
+
 ### Day 56: July 1, 2021
 
 **Today's Progress**: Challenge # 4 MintBean- contact component & CSS on Codecademy
@@ -8,7 +20,7 @@
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1410619170807373826?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1410826503823101958?s=20)
 2. [Challenge 4 MintBean](https://github.com/5usana/challenge4-mintbean)
 3. [DEPLOYED Challenge 4 MintBean](https://challenge4.surge.sh/)
 
