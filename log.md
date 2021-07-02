@@ -4,12 +4,14 @@
 
 **Today's Progress**: Challenge # 4 MintBean- contact component & CSS on Codecademy
 
-**Thoughts** 
+**Thoughts** so we had our wrap up and review today for mintbean, they spent a generous amount of time helping everyone improve their challenge for contact component. we struggled going throigh mine bc it was not deployed so i am circling back on discord to request a review and help session with a mentor. I'm excited! deployed my repo to surge for the first time.
 
 **Link(s) to work**
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1410619170807373826?s=20)
 2. [Challenge 4 MintBean](https://github.com/5usana/challenge4-mintbean)
+3. [DEPLOYED Challenge 4 MintBean](https://challenge4.surge.sh/)
+
 
 ### Day 55: June 30, 2021
 
