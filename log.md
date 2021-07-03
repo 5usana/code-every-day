@@ -4,13 +4,13 @@
 
 **Today's Progress**: Challenge # 4 MintBean- contact component & CSS on Codecademy
 
-**Thoughts** 
+**Thoughts** Wow, I was mentored by Emsad Ahmetašević for my Mintbean Challenge for 2hrs today, i am so grateful!! my html semantic markup was messy and he walked be through bettering it. i have some resources to read up on and work through, i look forward to improving!!
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1410619170807373826?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1411122917069398016?s=20)
 2. [Challenge 4 MintBean](https://github.com/5usana/challenge4-mintbean)
-3. [DEPLOYED Challenge 4 MintBean](https://challenge4.surge.sh/)
+3. [DEPLOYED Challenge 4 MintBean](https://5usana.github.io/challenge4-mintbean/?#)
 
 ### Day 56: July 1, 2021
 
