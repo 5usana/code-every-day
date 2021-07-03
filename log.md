@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+### Day 58: July 3, 2021
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1411122917069398016?s=20)
+2. []()
+
+
 ### Day 57: July 2, 2021
 
 **Today's Progress**: Challenge # 4 MintBean- contact component & CSS on Codecademy
