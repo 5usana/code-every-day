@@ -3,14 +3,14 @@
 
 ### Day 58: July 3, 2021
 
-**Today's Progress**: 
+**Today's Progress**: flexbox froggy anf element semantics
 
-**Thoughts**
+**Thoughts** it's 4th of july weekend so i set aside some time to have fun playing Flexbox Froggy and brushing up on using better element semantics. Mintbean has a nice guide with links for details that i enjoyed going over.
 
 **Link(s) to work**
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1411122917069398016?s=20)
-2. []()
+1. [Twitter](https://twitter.com/Susana_debugs/status/1411549721533972487?s=20)
+2. [semantic html guide](https://github.com/Mintbean/Learn-a-bit/blob/main/Guideline/overall-guideline.md)
 
 
 ### Day 57: July 2, 2021
