@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 58: July 4, 2021
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1411549721533972487?s=20)
+2. []()
 
 ### Day 58: July 3, 2021
 
