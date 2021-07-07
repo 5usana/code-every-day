@@ -8,8 +8,8 @@
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1412627698459955202?s=20)
-2. []()
+1. [Twitter](https://twitter.com/Susana_debugs/status/1412869486651211777?s=20)
+2. [Udemy- React Native Navigation](https://www.udemy.com/course/react-native-complete-navigation/learn/lecture/21056088#overview)
 
 ### Day 59: July 5, 2021
 
