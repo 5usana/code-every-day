@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 58: July 5, 2021
+### Day 60: July 5, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1412627698459955202?s=20)
+2. []()
+
+### Day 59: July 5, 2021
 
 **Today's Progress**: codecademy styling
 
