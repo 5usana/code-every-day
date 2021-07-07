@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 58: July 4, 2021
+### Day 58: July 5, 2021
 
-**Today's Progress**:
+**Today's Progress**: codecademy styling
 
-**Thoughts**
+**Thoughts** i had some networking and resume work to knock out today so i kept it simple by knocking out more css practice with codecademy. i really like how the alpha value saves a line of code to styling. i've been appreciating learning the basics, i needed this foundation to progress.
 
-**Link(s) to work**
+**Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1411549721533972487?s=20)
-2. []()
+1. [Twitter](https://twitter.com/Susana_debugs/status/1412627698459955202?s=20)
+2. [Codecademy](https://www.codecademy.com/courses/learn-css/lessons/css-typography/exercises/typography)
 
 ### Day 58: July 3, 2021
 
