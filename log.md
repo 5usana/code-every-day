@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 60: July 8, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1412869486651211777?s=20)
+2. []()
+
 ### Day 60: July 7, 2021
 
 **Today's Progress**: 
