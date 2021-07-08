@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 62: July 9, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1413269509973037061?s=20)
+2. []()
+
 ### Day 61: July 8, 2021
 
 **Today's Progress**: Udemy's Complete React Native in 2021: Zero to Mastery [with Hooks]
