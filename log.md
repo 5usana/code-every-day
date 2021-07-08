@@ -1,17 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 60: July 5, 2021
+### Day 60: July 7, 2021
 
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts** Researching React State Management Libraries for an upcoming project & exploring different dev podcasts. I started Section 7: Master Project: MealsToGo on Udemy. basically set up my environment so it's ready for tomorrow!
 
 **Link(s) to work** 
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1412869486651211777?s=20)
 2. [Udemy- React Native Navigation](https://www.udemy.com/course/react-native-complete-navigation/learn/lecture/21056088#overview)
 
-### Day 59: July 5, 2021
+### Day 59: July 6, 2021
 
 **Today's Progress**: codecademy styling
 
