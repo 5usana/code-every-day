@@ -1,15 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 60: July 8, 2021
+### Day 61: July 8, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Udemy's Complete React Native in 2021: Zero to Mastery [with Hooks]
 
-**Thoughts** 
+**Thoughts** back to this native course in preparation for Make it MVP's july cohort! I had issues getting my environment set up today, but I confidently searched for my error and fixed it! Honestly, it felt so good moving forward with the fix. I used to not only NOT understand errors or debugging, I would be so nervous searching for solutions but I did it smoothly today and it felt great. Looking back, I've come a long way and I know I still have a long way to go. I'm feeling really good today.
+
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1412869486651211777?s=20)
-2. []()
+1. [Twitter](https://twitter.com/Susana_debugs/status/1413269509973037061?s=20)
+2. [](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/learn/lecture/24017300#content)
 
 ### Day 60: July 7, 2021
 
