@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 63: July 10, 2021
+
+**Today's Progress**: React Native- Udemy 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1413571127201255425?s=20)
+2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
+
 ### Day 62: July 9, 2021
 
 **Today's Progress**: React Native- Udemy 
@@ -8,7 +19,7 @@
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1413269509973037061?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1413571127201255425?s=20)
 2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
 
 ### Day 61: July 8, 2021
