@@ -2,14 +2,14 @@
 
 ### Day 62: July 9, 2021
 
-**Today's Progress**:
+**Today's Progress**: React Native- Udemy 
 
-**Thoughts** 
+**Thoughts** with MakeitMVP july cohort FINALLY starting next week, I am back focusing on ReactNative. today i imported Platform (amongst other things) to accomodate andrid viewing compatibility, pretty cool!
 
 **Link(s) to work** 
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1413269509973037061?s=20)
-2. []()
+2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
 
 ### Day 61: July 8, 2021
 
