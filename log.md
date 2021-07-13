@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 63: July 11, 2021
+### Day 63: July 12, 2021
 
-**Today's Progress**: React Native- Udemy 
+**Today's Progress**: React Native review
 
-**Thoughts** 
+**Thoughts** the most exciting part of today was having my first founders pitch with make it mvp. i did react native review today to better understand what comes ahead with this project. im so nervous and excited. i cant wait to implement what i've been learning in the udemy react native course. taking the leap from tutorials to creating is where the magic happens!!! eeek!!
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1413571127201255425?s=20)
-2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1414795286455603200?s=20)
+2. [kosher without borders](https://github.com/MVP-Marketplace/kosher-without-borders)
 
 ### Day 62: July 9, 2021
 
