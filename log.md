@@ -1,16 +1,17 @@
 # 100 Days Of Code - Log
 
 
-### Day 63: July 14, 2021
+### Day 64: July 13, 2021
 
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts** for the 1st sprint with Mkae it MVP we are working out deatils regarding the data needed from the original app, streamlining bullet points into reusable bullet points, creating an ERD for the database, and which final tech stack to use for our file structure. i went over the app tody to ensure i have what i need for the database schema/models. learning and reviewing an ERD, excited to create one myself!
+
 
 **Link(s) to work** 
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1414795286455603200?s=20)
-2. [kosher without borders](https://github.com/MVP-Marketplace/kosher-without-borders)
+2. [ER Diagrams](https://dbdiagram.io/home)
 
 ### Day 63: July 12, 2021
 
