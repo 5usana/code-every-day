@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 65: July 14, 2021
+
+**Today's Progress**: 
+
+**Thoughts**
+
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1414795286455603200?s=20)
+2. [ER Diagrams](https://dbdiagram.io/home)
 
 ### Day 64: July 13, 2021
 
@@ -10,7 +21,7 @@
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1414795286455603200?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1415141594223693827?s=20)
 2. [ER Diagrams](https://dbdiagram.io/home)
 
 ### Day 63: July 12, 2021
