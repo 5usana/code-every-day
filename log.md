@@ -2,15 +2,16 @@
 
 ### Day 65: July 14, 2021
 
-**Today's Progress**: 
+**Today's Progress**: React Native- Udemy 
 
-**Thoughts**
+**Thoughts** hopped back onto the react native course! I met up with my dev team for make it mvp and im officially on the mobile team, so i need to focus on react native. today i worked on a mealstogo app and applying Design Ops for consistancy, tomorrow i'll be incorporating styled components which i've used with react.js so im already familiar. I wonder how similar it is to styled components on react.js
+exciting!!!
 
 
 **Link(s) to work** 
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1414795286455603200?s=20)
-2. [ER Diagrams](https://dbdiagram.io/home)
+2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
 
 ### Day 64: July 13, 2021
 
