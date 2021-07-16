@@ -2,13 +2,13 @@
 
 ### Day 66: July 15, 2021
 
-**Today's Progress**: 
+**Today's Progress**: cohort updates and react native tutorial
 
-**Thoughts** 
+**Thoughts** it feels good to be working ons omething specific. today i set a meeting with the devs in my cohort, a few of us sat in on a metting with the UX team to better understand the research being done and sent out surveys to better user experience. i knocked out more react native practice and read up on firebase. 
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1414795286455603200?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1415892672082939908?s=20)
 2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
 
 
