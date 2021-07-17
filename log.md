@@ -4,7 +4,7 @@
 
 **Today's Progress**:
 
-**Thoughts**  
+**Thoughts**  met with my dev team today, collected resources to pull data from wordpress to firebase and continued my react native tutorial!
 
 **Link(s) to work** 
 
