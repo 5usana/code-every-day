@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 68: July 17, 2021
+### Day 68: July 19, 2021
 
 **Today's Progress**:
 
