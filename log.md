@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 69: July 20, 2021
+
+**Today's Progress**:
+
+**Thoughts**  
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1417354259633295362?s=20)
+2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
 
 ### Day 68: July 19, 2021
 
