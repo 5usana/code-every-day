@@ -5,7 +5,7 @@
 
 **Today's Progress**:
 
-**Thoughts**  met with my dev team today, collected resources to pull data from wordpress to firebase and continued my react native tutorial!
+**Thoughts**  meeting with part of the dev team to draw out our ERD this morning, a little react native practice and a check in with the entire team to check in on our 2st sprint progress.
 
 **Link(s) to work** 
 
