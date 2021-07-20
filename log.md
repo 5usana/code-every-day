@@ -9,7 +9,7 @@
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1415892672082939908?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1417354259633295362?s=20)
 2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
 
 ### Day 67: July 16, 2021
@@ -20,7 +20,7 @@
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1415892672082939908?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1417354259633295362?s=20)
 2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
 
 
