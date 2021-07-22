@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 70: July 20, 2021
+
+**Today's Progress**: react native tutorial
+
+**Thoughts**  wrapping my brain around how to pass an interpolated function to styled component's template literal.
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1417670057790869512?s=20)
+2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
+
 ### Day 69: July 20, 2021
 
 **Today's Progress**: react native tutorial
