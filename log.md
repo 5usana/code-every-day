@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 70: July 20, 2021
+### Day 71: July 21, 2021
 
 **Today's Progress**: react native tutorial
 
-**Thoughts** more react native practice. i sat in on the design teams call today
+**Thoughts** more react native practice, and dev meeting tomorrow!
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1418051950755516418?s=20)
+2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
+
+### Day 70: July 21, 2021
+
+**Today's Progress**: react native tutorial
+
+**Thoughts** more react native practice. i sat in on the design teams call today and went over their docs. sprint 1 is wrapping up this week.
 
 **Link(s) to work** 
 
