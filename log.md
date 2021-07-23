@@ -2,9 +2,9 @@
 
 ### Day 72: July 23, 2021
 
-**Today's Progress**: react native tutorial
+**Today's Progress**: 
 
-**Thoughts** more react native practice, 
+**Thoughts** 
 
 **Link(s) to work** 
 
