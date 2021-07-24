@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 73: July 24, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1418427900143882245?s=20)
+2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
+
 ### Day 72: July 23, 2021
 
 **Today's Progress**: 
@@ -9,7 +20,7 @@
 **Link(s) to work** 
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1418427900143882245?s=20)
-2. [React Native- Udemy course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
+2. [Kosher without borders mobile repo](https://github.com/MVP-Marketplace/kosher-without-borders)
 
 ### Day 71: July 22, 2021
 
