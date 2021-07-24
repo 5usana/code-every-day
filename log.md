@@ -4,7 +4,7 @@
 
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts** developer meeting today, followed by a mobile dev meeting. cloned the react native repo for kosher without borders mobile app which antonio set up for us.
 
 **Link(s) to work** 
 
