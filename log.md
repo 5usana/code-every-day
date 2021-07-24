@@ -19,7 +19,7 @@
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1418427900143882245?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1418797699101429763?s=20)
 2. [Kosher without borders mobile repo](https://github.com/MVP-Marketplace/kosher-without-borders)
 
 ### Day 71: July 22, 2021
