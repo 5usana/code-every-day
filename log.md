@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 75: July 26, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1419173596748947463?s=20)
+2. [file structure plan](https://docs.google.com/document/d/1EhbsTRPjx4s00KJwTTbflns-Ks_WXTIn75XvcDZ73Fs/edit)
+
 ### Day 74: July 25, 2021
 
 **Today's Progress**: 
