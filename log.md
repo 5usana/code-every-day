@@ -4,12 +4,12 @@
 
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts** 0 coding today, but I met Traci in person, she's a cofounder of Make it MVP. It was so fun meeting today and spending the day in SF. The cohort has been an exciting experience, and I'm eager to go over our next sprint startign tomorrow!
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1419173596748947463?s=20)
-2. [file structure plan](https://docs.google.com/document/d/1EhbsTRPjx4s00KJwTTbflns-Ks_WXTIn75XvcDZ73Fs/edit)
+No links today
+
 
 ### Day 73: July 24, 2021
 
