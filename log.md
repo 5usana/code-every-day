@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 75: July 28, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1419173596748947463?s=20)
+2. []()
+
 ### Day 74: July 27, 2021
 
 **Today's Progress**: added tickets to airtable, set up firebase in react native app, and watched the firebase tutorial on udemy
