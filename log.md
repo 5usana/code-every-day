@@ -1,17 +1,45 @@
 # 100 Days Of Code - Log
 
-### Day 75: July 26, 2021
+### Day 74: July 27, 2021
 
-**Today's Progress**: 
+**Today's Progress**: added tickets to airtable, set up firebase in react native app, and watched the firebase tutorial on udemy
 
-**Thoughts** 
+**Thoughts** yesterday was ALL meetings, we wrapped up our 1st sprint!! Today we discussed sprint 2 which entails the following Deliverables.
+## Deliverables:
+
+- **Login, Authentication, Authorization (Devs)**
+
+    Acceptance Criteria: 
+
+    The user will successfully be able to login, logout, delete and update account using email and password, as well as social accounts like google, facebook etc.  
+
+    The admin user will have the ability to access specific content different from the other users. 
+
+- **Full Database build testing**
+
+    Acceptance Criteria: 
+
+    - Authorized Users will be able to CRUD listings
+    - Users will be able to search data via filters decided on by the team and founder
+    - Users will be able to save and share data as deemed by the founders needs
+    - All Routes have been tested and are working properly. (Mock up front end components as necessary i.e. search bar, login page etc.)
+
+    *Note: Sometimes it's better to create more routes than less to make it easier for the future*.
+
+- **Third Party Integrations**
+
+    Acceptance Criteria:
+
+    Integrate all 3rd part applications basic code and functionality
+
+    i.e. Cloudinary, stripe, mapbox etc.
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1419173596748947463?s=20)
-2. [file structure plan](https://docs.google.com/document/d/1EhbsTRPjx4s00KJwTTbflns-Ks_WXTIn75XvcDZ73Fs/edit)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1420245339680894978?s=20)
+2. [Kosher without Borders](https://docs.google.com/document/d/1EhbsTRPjx4s00KJwTTbflns-Ks_WXTIn75XvcDZ73Fs/edit)
 
-### Day 74: July 25, 2021
+### Day : July 25, 2021
 
 **Today's Progress**: 
 
