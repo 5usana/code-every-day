@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 76: July 29, 2021
+
+**Today's Progress**: continue 'user creates listing #7'
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1419173596748947463?s=20)
+2. [Issue #7]()
 
 ### Day 75: July 28, 2021
 
@@ -9,7 +19,7 @@
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1419173596748947463?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1420586677026709507?s=20)
 2. [Issue #7](https://github.com/MVP-Marketplace/kosher-without-borders/issues/7)
 
 ### Day 74: July 27, 2021
