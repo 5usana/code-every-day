@@ -3,14 +3,14 @@
 
 ### Day 75: July 28, 2021
 
-**Today's Progress**:
+**Today's Progress**: worked on our repo issue 'user creates listing #7'
 
-**Thoughts** 
+**Thoughts** my first time working through firebase. i ran into many errors, but my testing worked. tomorrow i need to complete the issue, still not 100% how but I look forward to figuring it out!!
 
 **Link(s) to work** 
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1419173596748947463?s=20)
-2. []()
+2. [Issue #7](https://github.com/MVP-Marketplace/kosher-without-borders/issues/7)
 
 ### Day 74: July 27, 2021
 
