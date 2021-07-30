@@ -2,14 +2,14 @@
 
 ### Day 76: July 29, 2021
 
-**Today's Progress**: continue 'user creates listing #7'
+**Today's Progress**: continue 'user creates listing #7', change to getListings
 
-**Thoughts** 
+**Thoughts** finally pushed my branch up to the repo, i was having issues as a contributor. pair programming with setting up our routing for signin, signup, search, home, mapboxing. i need to research query set up, i need to be able to pull data for the listings. goooood day.
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1419173596748947463?s=20)
-2. [Issue #7]()
+1. [Twitter](https://twitter.com/Susana_debugs/status/1420997443257212928?s=20)
+2. [Kosher without Borders](https://docs.google.com/document/d/1EhbsTRPjx4s00KJwTTbflns-Ks_WXTIn75XvcDZ73Fs/edit)
 
 ### Day 75: July 28, 2021
 
