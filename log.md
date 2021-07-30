@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 77: July 30, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1420997443257212928?s=20)
+2. [Kosher without Borders](https://docs.google.com/document/d/1EhbsTRPjx4s00KJwTTbflns-Ks_WXTIn75XvcDZ73Fs/edit)
+
 ### Day 76: July 29, 2021
 
 **Today's Progress**: continue 'user creates listing #7', change to getListings
