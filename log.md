@@ -2,13 +2,13 @@
 
 ### Day 77: July 30, 2021
 
-**Today's Progress**: 
+**Today's Progress**:  figured out how to Create and Read from the db on the React Native repo today 
 
-**Thoughts** 
+**Thoughts** i also played around with deleting but was not yet succesful. pretty cool!!!
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1420997443257212928?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1421185306565300224?s=20)
 2. [Kosher without Borders](https://docs.google.com/document/d/1EhbsTRPjx4s00KJwTTbflns-Ks_WXTIn75XvcDZ73Fs/edit)
 
 ### Day 76: July 29, 2021
