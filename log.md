@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 78: July 31, 2021
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1421185306565300224?s=20)
+2. [Kosher without Borders](https://docs.google.com/document/d/1EhbsTRPjx4s00KJwTTbflns-Ks_WXTIn75XvcDZ73Fs/edit)
+
 ### Day 77: July 30, 2021
 
 **Today's Progress**:  figured out how to Create and Read from the db on the React Native repo today 
