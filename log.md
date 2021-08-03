@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 78: July 31, 2021
+### Day 78: August 2, 2021
 
-**Today's Progress**:
+**Today's Progress**: set up routes and barebone wireframe styling. 2 meetings one with devs and another with the entire team minus tracy- half way through 2nd sprint
 
-**Thoughts**
+**Thoughts** today was was a light day, its  travel day! im staying at my brothers in nevade for 11 days, surprised my sister today for her birthday. I had fun putting in barebone styling for my components & setting routes to home page. met up with devs for better understanding of tesks yet to complete this sprint. weekly meeting with entire team. tomorrow im working with Adele, im excited to continue building out the backend.
 
 **Link(s) to work** 
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1421185306565300224?s=20)
-2. [Kosher without Borders](https://docs.google.com/document/d/1EhbsTRPjx4s00KJwTTbflns-Ks_WXTIn75XvcDZ73Fs/edit)
+2. [Kosher without Borders](https://github.com/MVP-Marketplace/kosher-without-borders)
 
 ### Day 77: July 30, 2021
 
