@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 79: August 3, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1421185306565300224?s=20)
+2. [Kosher without Borders](https://github.com/MVP-Marketplace/kosher-without-borders)
+
 ### Day 78: August 2, 2021
 
 **Today's Progress**: set up routes and barebone wireframe styling. 2 meetings one with devs and another with the entire team minus tracy- half way through 2nd sprint
