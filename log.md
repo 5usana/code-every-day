@@ -2,14 +2,15 @@
 
 ### Day 80: August 4, 2021
 
-**Today's Progress**: 
+**Today's Progress**: study for HackerRank test
 
-**Thoughts** 
+**Thoughts** I had an interview with HakcerRank yesterday and they sent me a test to take, if I pass then I will continue with the inteview process. so after a couple meetings with my Make it MVP team, I set those duties aside and have been studying and coding in preperation for my test. I'm nervous that i am not yet a strong enough coder but that wont' stop me from trying! I continued to practice today, I have 1 complete Kata, and another HakcerRank 30daysofcode challenge done. tomorrow i will take the test and find out if i can move forward with the interiew process. regardless of the outcome, if i continue then damn thats exciting, if i fail then i just have to work twice as hard and keep trying!
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1422775422073274371?s=20)
-2. [Kosher without Borders](https://github.com/MVP-Marketplace/kosher-without-borders)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1423024142077501442?s=20)
+2. [Do you speak "Engligh" Kata](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
+3. [Day 1: Data Structures](https://www.hackerrank.com/challenges/30-data-types/problem)
 
 ### Day 79: August 3, 2021
 
