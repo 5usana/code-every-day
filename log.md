@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 81: August 5, 2021
+
+**Today's Progress**: study for HackerRank test
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1423024142077501442?s=20)
+2. [Do you speak "Engligh" Kata](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
+
 ### Day 80: August 4, 2021
 
 **Today's Progress**: study for HackerRank test
