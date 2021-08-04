@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 80: August 4, 2021
+
+**Today's Progress**: mobile dev meeting, db chat with adele & josh, move forward with mobile markup on whimsical & interview code prep
+
+**Thoughts** it was light coding for make it mvp today and more focus on interview prep. i had my first interview with hackerrank today and they sent me a test to take. i move forward if i pass... im so neevous!
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1422775422073274371?s=20)
+2. [Kosher without Borders](https://github.com/MVP-Marketplace/kosher-without-borders)
+
 ### Day 79: August 3, 2021
 
 **Today's Progress**: mobile dev meeting, db chat with adele & josh, move forward with mobile markup on whimsical & interview code prep
