@@ -4,12 +4,12 @@
 
 **Today's Progress**: study for HackerRank test
 
-**Thoughts** 
+**Thoughts** i set up barebone styling on my listings page today! it's nice to see the layout start, i cant wait to match it up with the design teams mockup!
 
 **Link(s) to work** 
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1423024142077501442?s=20)
-2. [Do you speak "Engligh" Kata](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
+2. [whimsical layout](https://whimsical.com/kwb-8jEkyKuHzYFAm5HGwYCs7o)
 
 ### Day 80: August 4, 2021
 
