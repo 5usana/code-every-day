@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 82: August 6, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1423525556222529539?s=20)
+2. [whimsical layout](https://whimsical.com/kwb-8jEkyKuHzYFAm5HGwYCs7o)
+
 ### Day 81: August 5, 2021
 
 **Today's Progress**: study for HackerRank test, & barebone layout of mobile app
@@ -8,7 +19,7 @@
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1423024142077501442?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1423525556222529539?s=20)
 2. [whimsical layout](https://whimsical.com/kwb-8jEkyKuHzYFAm5HGwYCs7o)
 
 ### Day 80: August 4, 2021
