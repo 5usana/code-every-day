@@ -2,7 +2,7 @@
 
 ### Day 81: August 5, 2021
 
-**Today's Progress**: study for HackerRank test
+**Today's Progress**: study for HackerRank test, & barebone layout of mobile app
 
 **Thoughts** i set up barebone styling on my listings page today! it's nice to see the layout start, i cant wait to match it up with the design teams mockup!
 
