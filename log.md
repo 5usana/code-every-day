@@ -11,6 +11,18 @@
 1. [Twitter](https://twitter.com/Susana_debugs/status/1423525556222529539?s=20)
 2. [whimsical layout](https://whimsical.com/kwb-8jEkyKuHzYFAm5HGwYCs7o)
 
+
+### Day 82: August 7, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1423525556222529539?s=20)
+2. [whimsical layout](https://whimsical.com/kwb-8jEkyKuHzYFAm5HGwYCs7o)
+
 ### Day 81: August 5, 2021
 
 **Today's Progress**: study for HackerRank test, & barebone layout of mobile app
