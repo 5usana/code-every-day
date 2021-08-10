@@ -12,7 +12,7 @@
 2. [whimsical layout](https://whimsical.com/kwb-8jEkyKuHzYFAm5HGwYCs7o)
 
 
-### Day 82: August 7, 2021
+### Day 82: August 9, 2021
 
 **Today's Progress**:
 
