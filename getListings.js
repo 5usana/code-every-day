@@ -6,7 +6,7 @@ import { Text, View } from 'react-native';
 
 
 export const GetListings = () => {
-//example firestore data retrieval
+// example firestore data retrieval
 // select collection type from firestore & name of collection to retrieve
   const docRef = firestore.collection('listings').doc('chabad-lubavitch');
 
