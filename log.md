@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 83: August 8, 2021
+### Day 83: August 10, 2021
 
 **Today's Progress**:
 
