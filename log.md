@@ -16,11 +16,11 @@
 
 **Today's Progress**:
 
-**Thoughts** 
+**Thoughts** 109 degrees in vegas for my last full day here and both my brothers AC & Wifi go down. i got a little BASH review in during the chaos, but no work done on make it MVP. something is better than nothing. I am preparing for an interview with AWS so I need to try out BASH, & Linux. so a little refresher was due! I'll know out more this week and expose myself to python, its been a while.
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1423525556222529539?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1425278512030572548?s=20)
 2. [whimsical layout](https://whimsical.com/kwb-8jEkyKuHzYFAm5HGwYCs7o)
 
 ### Day 81: August 5, 2021
