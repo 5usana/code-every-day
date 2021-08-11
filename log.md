@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 83: August 10, 2021
+### Day 83: August 11, 2021
 
 **Today's Progress**:
 
@@ -9,10 +9,10 @@
 **Link(s) to work** 
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1423525556222529539?s=20)
-2. [whimsical layout](https://whimsical.com/kwb-8jEkyKuHzYFAm5HGwYCs7o)
+2. [BASH Scripting](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 
 
-### Day 82: August 9, 2021
+### Day 82: August 10, 2021
 
 **Today's Progress**:
 
@@ -21,7 +21,7 @@
 **Link(s) to work** 
 
 1. [Twitter](https://twitter.com/Susana_debugs/status/1425278512030572548?s=20)
-2. [whimsical layout](https://whimsical.com/kwb-8jEkyKuHzYFAm5HGwYCs7o)
+2. [BASH Scripting](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 
 ### Day 81: August 5, 2021
 
