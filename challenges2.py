@@ -1,3 +1,5 @@
+// circle back, incomplete //
+
 # Part 1: Remove First and Last Characters
 # Your goal is to create a function that removes the first and last character of a string. You're given one parameter, the original string. All input strings will be two characters or longer.
 
