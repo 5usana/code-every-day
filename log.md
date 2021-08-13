@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 84: August 13, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1426043167711715330?s=20)
+2. [BASH Scripting](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+
 ### Day 83: August 12, 2021
 
 **Today's Progress**:
