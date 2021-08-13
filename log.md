@@ -4,11 +4,11 @@
 
 **Today's Progress**:
 
-**Thoughts** 
+**Thoughts** Light styling today. the design team shared their lagtets updates to the mid-fi design while they start workong on the hi-fi! just carving out simple nagigation, not going too crazy.
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1423525556222529539?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1426043167711715330?s=20)
 2. [BASH Scripting](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 
 
