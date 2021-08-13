@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day 84: August 13, 2021
 
 **Today's Progress**:
@@ -12,7 +13,7 @@
 
 ### Day 83: August 12, 2021
 
-**Today's Progress**:
+**Today's Progress**: react native light styling
 
 **Thoughts** Light styling today. the design team shared their lagtets updates to the mid-fi design while they start workong on the hi-fi! just carving out simple nagigation, not going too crazy.
 
