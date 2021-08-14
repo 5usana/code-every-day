@@ -3,13 +3,14 @@
 
 ### Day 84: August 13, 2021
 
-**Today's Progress**:
+**Today's Progress**: design layout to make it mvp
 
-**Thoughts** 
+**Thoughts** added light layout, i'll continue tomorrow!
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1426043167711715330?s=20)
-2. [BASH Scripting](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1426413791433003009?s=20)
+2. [mobile Make it MVP](https://github.com/MVP-Marketplace/kosher-without-borders)
+
 
 ### Day 83: August 12, 2021
 
