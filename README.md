@@ -1,7 +1,7 @@
 # code-every-day
 
 ## Two Main Rules
-Code minimum an hour every day for the next 100 days.
+Code minimum an hour every day (at times almost everyday) for the next 100 days.
 Tweet your progress every day with the #100DaysOfCode hashtag.
 
 Publicly commit to the challenge:
