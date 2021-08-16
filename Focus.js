@@ -12,7 +12,7 @@ export const Focus = ({ addSubject }) => {
   return (
     <View style={styles.container}>
       <View style={styles.titleContainer}>
-        <Text style={styles.title}>What would you like to focus on?</Text>
+        <Text style={styles.title}>What would you like to focus on</Text>
         <View style={styles.inputContainer}>
         <TextInput style={{ flex: 1, marginRight: spacing.md}} 
         onSubmitEditing={
