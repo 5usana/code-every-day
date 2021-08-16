@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 85: August 15, 2021
+### Day 85: August 16, 2021
 
 **Today's Progress**: 
 
