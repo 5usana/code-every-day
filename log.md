@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 86: August 17, 2021
+
+**Today's Progress**: CRUD
+
+**Thoughts** yes, still working on Delete. actually circling back to it. I hit a wall and found other distractions in the meantime. my teammate on the web team reached out bc she also hasnt figured out delete, and we also need it for the mobile team. chipping away!!! 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1427465924425125903?s=20)
+2. [mobile Make it MVP](https://github.com/MVP-Marketplace/kosher-without-borders)
+
 ### Day 85: August 16, 2021
 
 **Today's Progress**: CRUD
