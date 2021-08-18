@@ -3,13 +3,13 @@
 
 ### Day 86: August 17, 2021
 
-**Today's Progress**: CRUD
+**Today's Progress**: CRUD- Delete works!!!
 
-**Thoughts** yes, still working on Delete. actually circling back to it. I hit a wall and found other distractions in the meantime. my teammate on the web team reached out bc she also hasnt figured out delete, and we also need it for the mobile team. chipping away!!! 
+**Thoughts** OK Delete now works. Now I need to go back into CRUD and make sure everythign is wrapped in a function to call at the appropriate time. SUPER excited to finally knock this out. wow. this feels incredible
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1427465924425125903?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1427801116989788161?s=20)
 2. [mobile Make it MVP](https://github.com/MVP-Marketplace/kosher-without-borders)
 
 ### Day 85: August 16, 2021
