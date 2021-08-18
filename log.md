@@ -3,9 +3,9 @@
 
 ### Day 87: August 18, 2021
 
-**Today's Progress**: CRUD- Delete works!!!
+**Today's Progress**: 
 
-**Thoughts** OK Delete now works. Now I need to go back into CRUD and make sure everythign is wrapped in a function to call at the appropriate time. SUPER excited to finally knock this out. wow. this feels incredible
+**Thoughts** 
 
 **Link(s) to work** 
 
