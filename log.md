@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 87: August 18, 2021
+
+**Today's Progress**: CRUD- Delete works!!!
+
+**Thoughts** OK Delete now works. Now I need to go back into CRUD and make sure everythign is wrapped in a function to call at the appropriate time. SUPER excited to finally knock this out. wow. this feels incredible
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1427801116989788161?s=20)
+2. [mobile Make it MVP](https://github.com/MVP-Marketplace/kosher-without-borders)
+
 ### Day 86: August 17, 2021
 
 **Today's Progress**: CRUD- Delete works!!!
