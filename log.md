@@ -14,9 +14,9 @@
 
 ### Day 87: August 18, 2021
 
-**Today's Progress**: 
+**Today's Progress**: pulled teammate updates and pushed up mine
 
-**Thoughts** 
+**Thoughts** I had problems with this whole personal access token error on github and havent pushed any of my changes for 2 weeks. on top of that i was creating branches without properly pushing up exisitng data and basically making a mess. it's been a valuable learnign experience. i promise to do better and NOT repeat. growing pains right???
 
 **Link(s) to work** 
 
