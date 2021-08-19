@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 88: August 19, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+1. [Twitter](https://twitter.com/Susana_debugs/status/1428220883936563204?s=20)
+2. [mobile Make it MVP](https://github.com/MVP-Marketplace/kosher-without-borders)
+
 ### Day 87: August 18, 2021
 
 **Today's Progress**: 
