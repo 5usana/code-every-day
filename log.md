@@ -5,7 +5,7 @@
 
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts** I've been feeling off, no coding almost the past week. i want to hop back on tomorrow.
 
 **Link(s) to work** 
 
