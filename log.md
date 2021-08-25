@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 88: August 23, 2021
+### Day 88: August 24, 2021
 
 **Today's Progress**: 
 
