@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
 
-### Day 88: August 24, 2021
+### Day 88: August 25, 2021
 
 **Today's Progress**: 
 
-**Thoughts** I've been feeling off, no coding almost the past week. i want to hop back on tomorrow.
+**Thoughts** I've been feeling off, no coding almost the past week. i want to hop back on tomorrow. picked up Grokking algorithms for reading, I'm excited to soak it up!
 
 **Link(s) to work** 
 
