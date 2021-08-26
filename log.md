@@ -5,7 +5,7 @@
 
 **Today's Progress**: 
 
-**Thoughts** I've been feeling off, no coding almost the past week. i want to hop back on tomorrow. picked up Grokking algorithms for reading, I'm excited to soak it up!
+**Thoughts** I've been feeling off, no coding the past week. I did keep up with team meetings for make it mvp & discussing out next moves. looking forward to wrapping up the backened and focusing on the front end. picked up Grokking algorithms for reading, I'm excited to soak it up!
 
 **Link(s) to work** 
 
