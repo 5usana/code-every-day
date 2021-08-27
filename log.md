@@ -1,11 +1,13 @@
 # 100 Days Of Code - Log
 
 
-### Day 88: August 25, 2021
+### Day 88: August 26, 2021
 
-**Today's Progress**: 
+**Today's Progress**: about page for make it mvp
 
 **Thoughts** I've been feeling off, no coding the past week. I did keep up with team meetings for make it mvp & discussing out next moves. looking forward to wrapping up the backened and focusing on the front end. picked up Grokking algorithms for reading, I'm excited to soak it up!
+
+above are some of my thoughts from the past week. thats right, i havent been coding for a week. it's been one hell of a funk, but I'm eager to get ack at it. today i tackled the about page for make it mvp. i have a rough outline of the page set, withs scrollview, a .png image and a youtube video that has audio but no visual. i'll keep hacking away at it! fun to be back and working on front end design.
 
 **Link(s) to work** 
 
