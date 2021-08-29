@@ -2,9 +2,9 @@
 
 ### Day 89: August 28, 2021
 
-**Today's Progress**:
+**Today's Progress**: aboutpage youtube works!
 
-**Thoughts** 
+**Thoughts** ok so the youtube video actually works now on the reactnative repo! it's small but i'll get the sizing fixed. i also got the play and pause functionality to work, woo!! i ran into a lot of issues with pulling/pushing so i set up casheing my github gredentials BUT even that didnt work. I ended up creating another token to get by. it was frustrating but a learning experience.
 
 
 **Link(s) to work** 
