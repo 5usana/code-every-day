@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day 90: Sept 5, 2021
 
 **Today's Progress**: 
