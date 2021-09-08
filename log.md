@@ -8,7 +8,7 @@
 
 **Link(s) to work** 
 
-1. [Twitter](https://twitter.com/Susana_debugs/status/1431838560974295040?s=20)
+1. [Twitter](https://twitter.com/Susana_debugs/status/1435473075428990979?s=20)
 2. [mobile Make it MVP](https://github.com/MVP-Marketplace/kosher-without-borders)
 
 ### Day 89: August 28, 2021
