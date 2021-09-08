@@ -2,9 +2,9 @@
 
 ### Day 90: Sept 7, 2021
 
-**Today's Progress**: 
+**Today's Progress**: updated details on aboutpage
 
-**Thoughts**
+**Thoughts** its been a week since i've coded, i've been feeling burnt out. it was nice to return with a a fresh look. i like the progress i've made with the about page. the youtube video now fits to the page, and the margins have been adjusted. i made a fonts.js file but i dont have it fully working. looking forward to a few tweaks
 
 **Link(s) to work** 
 
